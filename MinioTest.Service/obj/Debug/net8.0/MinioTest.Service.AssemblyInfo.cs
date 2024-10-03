@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MinioTest.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60fb8c469c5df1dcde1bf1185188e315e20e4612")]
 [assembly: System.Reflection.AssemblyProductAttribute("MinioTest.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MinioTest.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
