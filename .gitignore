@@ -1,33 +1,33 @@
-/src/MinioTest/.vs
-/src/MinioTest/.vs/*
-/src/MinioTest/*/bin
-/src/MinioTest/*/obj
-/src/MinioTest/TempData
-/src/MinioTest/log
-/src/MinioTest/aws-logger-errors.txt
+/MinioTest/.vs
+/MinioTest/.vs/*
+/MinioTest/*/bin
+/MinioTest/*/obj
+/MinioTest/TempData
+/MinioTest/log
+/MinioTest/aws-logger-errors.txt
 
-/src/MinioTestApi/.vs
-/src/MinioTestApi/.vs/*
-/src/MinioTestApi/*/bin
-/src/MinioTestApi/*/obj
-/src/MinioTestApi/aws-logger-errors.txt
-/src/MinioTestApi/log
+/MinioTestApi/.vs
+/MinioTestApi/.vs/*
+/MinioTestApi/*/bin
+/MinioTestApi/*/obj
+/MinioTestApi/aws-logger-errors.txt
+/MinioTestApi/log
 
-/src/MinioTest.Domain/.vs
-/src/MinioTest.Domain/.vs/*
-/src/MinioTest.Domain/*/bin
-/src/MinioTest.Domain/*/obj
+/MinioTest.Domain/.vs
+/MinioTest.Domain/.vs/*
+/MinioTest.Domain/*/bin
+/MinioTest.Domain/*/obj
 
-/src/MinioTest.Service/.vs
-/src/MinioTest.Service/.vs/*
-/src/MinioTest.Service/*/bin
-/src/MinioTest.Service/*/obj
+/MinioTest.Service/.vs
+/MinioTest.Service/.vs/*
+/MinioTest.Service/*/bin
+/MinioTest.Service/*/obj
 
 
-/src/*/bin
-/src/*/obj
-/src/.vs/*
-/src/.vs
+/*/bin
+/*/obj
+/.vs/*
+/.vs
 /.vs/*
 
 ## Ignore Visual Studio temporary files, build results, and

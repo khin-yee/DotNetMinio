@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{348C1182-DB84-4269-AB0A-71F76959B790}|MinioTest.Service\\MinioTest.Service.csproj|solutionrelative:miniotest.service\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{348C1182-DB84-4269-AB0A-71F76959B790}|MinioTest.Service\\MinioTest.Service.csproj|c:\\c#\\miniotest\\miniotest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348C1182-DB84-4269-AB0A-71F76959B790}|MinioTest.Service\\MinioTest.Service.csproj|solutionrelative:miniotest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{196004A6-4776-4A77-8EF2-7B9D2CE8058E}|MinioTestApi\\MinioTestApi.csproj|c:\\c#\\miniotest\\miniotestapi\\controllers\\miniotestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{196004A6-4776-4A77-8EF2-7B9D2CE8058E}|MinioTestApi\\MinioTestApi.csproj|solutionrelative:miniotestapi\\controllers\\miniotestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDBDF7A5-B726-48C6-A6DA-9A73B7C89686}|MinioTest.Domain\\MinioTest.Domain.csproj|c:\\c#\\miniotest\\miniotest.domain\\iservice\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDBDF7A5-B726-48C6-A6DA-9A73B7C89686}|MinioTest.Domain\\MinioTest.Domain.csproj|solutionrelative:miniotest.domain\\iservice\\iminioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{348C1182-DB84-4269-AB0A-71F76959B790}|MinioTest.Service\\MinioTest.Service.csproj|c:\\c#\\miniotest\\miniotest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{348C1182-DB84-4269-AB0A-71F76959B790}|MinioTest.Service\\MinioTest.Service.csproj|solutionrelative:miniotest.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{196004A6-4776-4A77-8EF2-7B9D2CE8058E}|MinioTestApi\\MinioTestApi.csproj|c:\\c#\\miniotest\\miniotestapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "MinioTest.Service\\MinioService.cs",
               "ToolTip": "C:\\C#\\MinioTest\\MinioTest.Service\\MinioService.cs",
               "RelativeToolTip": "MinioTest.Service\\MinioService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T07:43:41.238Z",
               "EditorCaption": ""
@@ -95,12 +95,11 @@
               "RelativeToolTip": "MinioTest.Domain\\Model\\BucketResponse.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:39:22.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T04:39:22.08Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MinioTestController.cs",
               "DocumentMoniker": "C:\\C#\\MinioTest\\MinioTestApi\\Controllers\\MinioTestController.cs",
               "RelativeDocumentMoniker": "MinioTestApi\\Controllers\\MinioTestController.cs",
@@ -108,12 +107,11 @@
               "RelativeToolTip": "MinioTestApi\\Controllers\\MinioTestController.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAkwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:34:20.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:34:20.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IMinioService.cs",
               "DocumentMoniker": "C:\\C#\\MinioTest\\MinioTest.Domain\\IService\\IMinioService.cs",
               "RelativeDocumentMoniker": "MinioTest.Domain\\IService\\IMinioService.cs",
@@ -121,8 +119,7 @@
               "RelativeToolTip": "MinioTest.Domain\\IService\\IMinioService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T07:45:58.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:45:58.236Z"
             },
             {
               "$type": "Document",
@@ -134,18 +131,17 @@
               "RelativeToolTip": "MinioTestApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T07:51:00.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:51:00.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\C#\\MinioTest\\MinioTest.Service\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "MinioTest.Service\\DependencyInjection.cs",
               "ToolTip": "C:\\C#\\MinioTest\\MinioTest.Service\\DependencyInjection.cs",
               "RelativeToolTip": "MinioTest.Service\\DependencyInjection.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAzwBIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T08:51:40.305Z",
               "EditorCaption": ""
@@ -153,15 +149,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MinioTest.Service",
+              "Title": "MinioTest.Service.csproj",
               "DocumentMoniker": "C:\\C#\\MinioTest\\MinioTest.Service\\MinioTest.Service.csproj",
               "RelativeDocumentMoniker": "MinioTest.Service\\MinioTest.Service.csproj",
               "ToolTip": "C:\\C#\\MinioTest\\MinioTest.Service\\MinioTest.Service.csproj",
               "RelativeToolTip": "MinioTest.Service\\MinioTest.Service.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-03T15:31:38.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-03T15:31:38.893Z"
             },
             {
               "$type": "Document",
@@ -173,8 +168,7 @@
               "RelativeToolTip": "MinioTestApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:46:43.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:46:43.964Z"
             },
             {
               "$type": "Document",
@@ -186,8 +180,7 @@
               "RelativeToolTip": "MinioTest.Domain\\Model\\Response.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAA3wAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:28:08.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:28:08.318Z"
             },
             {
               "$type": "Document",
@@ -199,8 +192,7 @@
               "RelativeToolTip": "MinioTest.Domain\\Model\\Request.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T04:50:47.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T04:50:47.368Z"
             },
             {
               "$type": "Document",
@@ -212,8 +204,7 @@
               "RelativeToolTip": "MinioTest.Domain\\MinioTest.Domain.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T07:44:05.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T07:44:05.748Z"
             },
             {
               "$type": "Document",
@@ -225,8 +216,7 @@
               "RelativeToolTip": "MinioTestApi\\MinioTestApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T08:44:02.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:44:02.662Z"
             },
             {
               "$type": "Document",
@@ -238,8 +228,7 @@
               "RelativeToolTip": "MinioTestApi\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T08:37:25.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:37:25.211Z"
             }
           ]
         }
